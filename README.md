@@ -13,4 +13,6 @@ void main(){
 }
 ```
 ## Output :
-![OutPut](/output/output.png)
+![OutPut][output]
+
+[output] : /output/output.png
