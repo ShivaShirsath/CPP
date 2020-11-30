@@ -15,4 +15,4 @@ void main(){
 ## Output :
 ![OutPut][output]
 
-[output] : /output/output.png
+[output]: /output/output.png
