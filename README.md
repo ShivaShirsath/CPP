@@ -16,4 +16,4 @@ void main(){
 ```
 > Output :
 
-![OutPut](output.png)
+![OutPut](output.jpg)
