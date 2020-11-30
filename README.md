@@ -1,4 +1,6 @@
-# ReadyForCPP
+# C++
+> Program :
+
 ```cpp
 #include<iostream.h>
 #include<conio.h>
@@ -12,7 +14,6 @@ void main(){
     getch();
 }
 ```
-## Output :
-![OutPut][output]
+> Output :
 
-[output]: /output/output.png
+![OutPut](output.png)
