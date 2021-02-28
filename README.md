@@ -14,6 +14,8 @@ void main(){
     getch();
 }
 ```
-> Output :
-
-![OutPut](output.jpg)
+> OutPut :
+```
+Enter your name : Shiva
+Hello Shiva !
+```
